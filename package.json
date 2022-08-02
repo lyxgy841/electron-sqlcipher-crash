@@ -18,7 +18,7 @@
   "license": "CC0-1.0",
   "devDependencies": {
     "electron": "^16.2.2",
-    "electron-rebuild": "^3.2.7"
+    "electron-rebuild": "^3.2.9"
   },
   "dependencies": {
     "better-sqlite3-sqlcipher": "git+https://github.com/lyxgy841/better-sqlite3-sqlcipher.git"
